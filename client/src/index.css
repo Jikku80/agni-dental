@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Greycliff";
+    src: url(../../public/fonts/Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: "Greycliff-Medium";
+    src: url(../../public/fonts/Light.otf) format('opentype');
+}

@@ -1,0 +1,5 @@
+{
+    "JWT_EXPIRE": "90d",
+    "JWT_SECRET": "jwt_secret_key",
+    "COOKIE_EXPIRES": 90
+}

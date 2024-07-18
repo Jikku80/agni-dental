@@ -1,0 +1,144 @@
+*{
+    /* font-family: Greycliff, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: Montserrat;
+    letter-spacing: .5px !important;
+    scrollbar-width: thin !important;
+}
+
+Th{
+    font-family: Greycliff-Medium !important;
+    letter-spacing: 1.5px !important;
+}
+
+.acitveColor{
+    color: #3182ce !important;
+    border-bottom: 2px solid #3182ce;
+}
+
+.headActive{
+    color: #3182ce !important;
+    font-weight: bolder;
+}
+
+.enlargeIcon{
+    font-size: 60px;
+    color : #4A5568;
+}
+
+.popContent{
+    word-wrap: normal !important;
+    white-space: pre-wrap !important;
+    height: fit-content !important;
+    width: 400px !important;
+}
+
+.reloadIcon{
+    font-weight: bolder;
+    color: #4A5568;
+    cursor: pointer;
+}
+
+.reloadIcon:hover{
+    color: #3182ce;
+}
+
+.emailTableBox, .messageTableBox{
+    display: flex !important;
+    justify-content: space-between !important;
+    align-items: center !important;
+}
+
+.deleteIcon{
+    font-size: 20px;
+    color:gray;
+    cursor: pointer;
+}
+
+.deleteIcon:hover{
+    color : crimson;
+}
+
+.searchIcon, .lightColot{
+    color:gray;
+}
+
+.dateFilter{
+    font-family: monospace;
+    color: #4A5568;
+    border-top: none !important;
+    border-left: none !important;
+    border-right:  none !important;
+}
+
+.dateFilter:focus{
+    box-shadow: none !important;
+}
+
+.customColor{
+    color: #4A5568;
+}
+
+.smpx{
+    font-size: 12px !important;
+}
+
+.bookForm{
+    color: #4A5568;
+    font-size: 16px !important;
+}
+
+.txtArea{
+    resize: none !important;
+    font-size: 16px !important;
+}
+
+.hidden{
+    display: none !important;
+}
+
+.tick{
+    font-size: 60px;
+    margin: 10px;
+    color: green;
+}
+
+.tableBody{
+    height: 60vh !important;
+    overflow-y: auto !important;
+    scrollbar-width: thin !important;
+}
+
+.tdLink{
+    cursor: pointer;
+}
+
+.tdLink:hover{
+    color: #3182ce;
+}
+
+.recordHeading{
+    font-weight: bolder;
+}
+
+.subRecordHead{
+    font-weight: bolder;
+    margin: 16px;
+}
+
+.margin{
+    margin-left: 16px;
+}
+
+.recordsTable{
+    overflow: hidden !important;
+}
+
+.searchBox{
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+}
+
+.searchBox:focus{
+    box-shadow: none !important;
+}
