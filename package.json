@@ -4,7 +4,9 @@
   "description": "\"Backend for agni dental website\"",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "install": "npm install && cd client && npm install",
+    "build": "cd client && npm run build"
   },
   "author": "Jeshan Maharjan",
   "license": "ISC",
